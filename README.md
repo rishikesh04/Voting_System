@@ -81,6 +81,6 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ## 👤 Author
 
-**Rishu**  
+**Rishikesh**  
 Deployed on **Flow EVM Testnet**  
 Contract Address: `0x037DeEB2A441A978bfb7A36417B232EbC1fC6fD1`
